@@ -69,7 +69,7 @@ The system architecture includes:
 - **Wi-Fi Module (built-in)** sends real-time data logs
 - **No Display**: Data is monitored wirelessly, reducing complexity and power draw
 
-**[ Block Diagram and Schematic provided in project folder]**
+![Block Diagram and Schematic provided in project folder](Schematic.png)
 
 ---
 
